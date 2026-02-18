@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 About Me<br>🎓 MSc Advanced Computer Science graduate from the University of Leicester 📊 Data Analyst with strong Business Intelligence & Data Science foundation 📍 Gujarat, India<br><br>I transform raw data into actionable business insights that drive smarter decisions.<br><br>With hands-on experience in SQL, Python, Power BI, and Tableau, I have worked on end-to-end data analytics projects — from data cleaning and EDA to KPI development, dashboard creation, and statistical analysis.<br><br>✔ Analyzed datasets of 30,000+ records ✔ Automated reporting processes reducing manual effort by 20% ✔ Improved operational efficiency by 15%+ through insight-driven decisions ✔ Built executive dashboards tracking $173M+ revenue & 129K+ orders<br><br>🔎 Actively seeking Data Analyst / Data Scientist opportunities where I can contribute analytical thinking, technical expertise, and business impact.
+# 💫 Hi I'm Smit Prajapati 💻
+**👋 About Me**<br>🎓 MSc Advanced Computer Science graduate from the University of Leicester<br> 📊 Data Analyst with strong Business Intelligence & Data Science foundation<br>I transform raw data into actionable business insights that drive smarter decisions.<br><br>With hands-on experience in SQL, Python, Power BI, and Tableau, I have worked on end-to-end data analytics projects — from data cleaning and EDA to KPI development, dashboard creation, and statistical analysis.<br><br>✔ Analyzed datasets of 30,000+ records ✔ Automated reporting processes reducing manual effort by 20% ✔ Improved operational efficiency by 15%+ through insight-driven decisions ✔ Built executive dashboards tracking $173M+ revenue & 129K+ orders<br><br>🔎 Actively seeking Data Analyst / Data Scientist opportunities where I can contribute analytical thinking, technical expertise, and business impact.
 
 
 ## 🌐 Socials:
@@ -12,6 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=smit2399&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smit2399&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# ⚡ Professional Focus:
+
+✔ Data-Driven Decision Making<br>
+✔ Business Intelligence & KPI Reporting<br>
+✔ Predictive Analytics & Machine Learning<br>
+✔ Data Storytelling for Stakeholders<br>
+✔ Process Optimization through Analytics
 
 ---
 [![](https://visitcount.itsvg.in/api?id=smit2399&icon=0&color=0)](https://visitcount.itsvg.in)
